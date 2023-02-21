@@ -1,0 +1,284 @@
+[
+  {
+   "Name": "2 West Park Farmhouse (Horton Country Park Office)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "2 West Park Farmhouse, Horton Country Park, Epsom KT19 8PL",
+   "Latitude": 51.3433857,
+   "Longitude": -0.2926091,
+   "UUID": "17d36e99-2a10-4e8c-b680-04532390e0a4",
+   "Column17": "Added"
+  },
+  {
+   "Name": "Abbeywood Care Home (Wharf Rd, Ash Vale, Aldershot GU12 5AX)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 0,
+   "Is in List?": "#REF!",
+   "In DB": "#REF!",
+   "Address": "Wharf Rd, Ash Vale, Aldershot GU12 5AX",
+   "Latitude": 51.2591047,
+   "Longitude": -0.7205809,
+   "UUID": "166bc31e-e2c9-46a1-840c-4976d25d2588",
+   "Column17": "More than 2 MPANS"
+  },
+  {
+   "Name": "Applewood Community Home",
+   "Priority": "High",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "#REF!",
+   "UUID": "276f5ba5-5fbf-4714-9544-9435e3263088",
+   "Column17": "More than 1 MPAN"
+  },
+  {
+   "Name": "Arundel Home",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 4,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "UUID": "febd5085-0797-4ef4-a3af-3e194c4ef390",
+   "Column17": "Shouldn't Add"
+  },
+  {
+   "Name": "Ash Library & Local Office",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "Ash St, Ash, Aldershot GU12 6LF",
+   "Latitude": 51.2459004,
+   "Longitude": -0.7301412,
+   "UUID": "c6dd0e2c-58bc-4235-af7d-bbdc798ffedd\n"
+  },
+  
+  {
+   "Name": "Ash Youth Centre",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "Ash Hill Rd, Ash, Aldershot GU12 5DN",
+   "Latitude": 51.255372,
+   "Longitude": -0.716905,
+   "UUID": "a2f09f41-2f2d-4415-9a0a-3eabdf84e29d\n"
+  },
+  {
+   "Name": "Ashford Library (Church Rd, Ashford TW15 2XB)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "Church Rd, Ashford TW15 2XB",
+   "Latitude": 51.4337273,
+   "Longitude": -0.4663218,
+   "UUID": "d590b571-fffd-475f-84d5-425e86bb0875"
+  },
+  {
+   "Name": "Ashtead Youth Centre",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 4,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "238 Barnett Wood Ln, Ashtead KT21 2BZ",
+   "Latitude": 51.2908068,
+   "Longitude": -0.401219,
+   "UUID": "7740d071-3a50-40f4-beb6-efbd9096d5d8"
+  },
+  {
+   "Name": "Bagshot Library (High St, Bagshot GU19 5AH)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "High St, Bagshot GU19 5AH",
+   "Latitude": 51.3619023,
+   "Longitude": -0.694419,
+   "UUID": "fcd4e9fc-4dcc-4a64-912c-420e269c4c57"
+  },
+  {
+   "Name": "Banstead Fire Station (168 High St, Banstead SM7 2NG)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "168 High St, Banstead SM7 2NG",
+   "Latitude": 51.3240165,
+   "Longitude": -0.1987203,
+   "UUID": "b248d9b8-8b3e-4c4e-9f2a-a62d475c86a6"
+  },
+  {
+   "Name": "Banstead Library (The Horseshoe, Bolters Ln, Banstead SM7 2AW)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "The Horseshoe, Bolters Ln, Banstead SM7 2AW",
+   "Latitude": 51.3218475,
+   "Longitude": -0.2078012,
+   "UUID": "e0a96635-6da1-4597-b83e-7152c4d99b2c"
+  },
+  {
+   "Name": "Banstead Youth Centre (4 The Orchard, Banstead SM7 2BP)",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 3,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "4 The Orchard, Banstead SM7 2BP",
+   "Latitude": 51.3213802,
+   "Longitude": -0.2094678,
+   "UUID": "9f766d3f-5067-414e-bdbc-de1d9fd49f86"
+  },
+  {
+   "Name": "Basingstoke Canal Houseboats",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 0,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "Canal Centre, Mytchett Pl Rd, Mytchett, Camberley GU16 6DD",
+   "Latitude": 51.2870443,
+   "Longitude": -0.7230295,
+   "Unsure of address": 1,
+   "UUID": "8499e099-f8aa-4c6a-b5df-95b0748a1830"
+  },
+  {
+   "Name": "Bisley Youth Centre",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 4,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "UUID": "fddb53e5-c0d3-4888-95d5-fc8469d0a7a7"
+  },
+  {
+   "Name": "Bletchingley Adult Education Centre",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 4,
+   "Is in List?": "#REF!",
+   "In DB": "Yes",
+   "Address": "Bletchingley, Redhill RH1 4NY",
+   "Latitude": 51.2408468,
+   "Longitude": -0.1066211,
+   "UUID": "7ba62cd1-166e-451c-a93b-4f394302812b"
+  },
+  {
+   "Name": "Fairways Day Centre",
+   "MPAN": [
+      {
+          "value": 1900060558612
+      },
+      {
+          "value": 1900060558612
+      }
+   ],
+   "Profile Class": 0,
+   "Is in List?": "#REF!",
+   "In DB": "#REF!"
+  }
+ ]

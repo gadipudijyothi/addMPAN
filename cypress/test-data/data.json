@@ -1,0 +1,75 @@
+[
+    
+    {
+     "Name": "test site1",
+     "shortSiteName": "test1",
+     "MPAN": [
+        {
+            "value": 1
+        },
+        {
+            "value": 2
+        },
+        {
+            "value": 3
+        }
+     ],
+     "Profile Class": 0,
+     "Is in List?": "#REF!",
+     "In DB": "#REF!",
+     "Address": "xyz address, postcode pe1 2rx",
+     "Latitude": 51.2591047,
+     "Longitude": -0.7205809,
+     "UUID": "166bc31e-e2c9-46a1-840c-4976d25d2588",
+     "Column17": "More than 2 MPANS"
+    },
+    {
+        "Name": "test site2",
+        "shortSiteName": "test2",
+        "MPAN": [
+           
+           {
+               "value": 5
+           },
+           {
+               "value": 6
+           },
+           {
+               "value": 4
+           }
+        ],
+        "Profile Class": 0,
+        "Is in List?": "#REF!",
+        "In DB": "#REF!",
+        "Address": "xyz address, postcode pe1 2rx",
+        "Latitude": 51.2591047,
+        "Longitude": -0.7205809,
+        "UUID": "166bc31e-e2c9-46a1-840c-4976d25d2588",
+        "Column17": "More than 2 MPANS"
+       },
+       {
+        "Name": "test site3",
+        "shortSiteName": "test3",
+        "MPAN": [
+           {
+               "value": 7
+           },
+           {
+               "value": 8
+           },
+           {
+               "value": 9
+           }
+        ],
+        "Profile Class": 0,
+        "Is in List?": "#REF!",
+        "In DB": "#REF!",
+        "Address": "xyz address, postcode pe1 2rx",
+        "Latitude": 51.2591047,
+        "Longitude": -0.7205809,
+        "UUID": "166bc31e-e2c9-46a1-840c-4976d25d2588",
+        "Column17": "More than 2 MPANS"
+       }
+    
+    
+   ]
